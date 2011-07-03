@@ -1,4 +1,4 @@
-Npp Hash Maker is a plugin which compute the hash of selected text in Notepad++.
+Npp Hash Maker is a plugin which computes the hash of selected text in Notepad++.
 Moreover, it provides hash result in base64 encoded (optional).
 
 This plugin is coded in C# by using .NET Framework.
