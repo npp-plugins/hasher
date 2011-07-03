@@ -1,4 +1,4 @@
-﻿namespace MyNppPlugin1
+﻿namespace NppHashMaker
 {
     partial class HashResultDlg
     {

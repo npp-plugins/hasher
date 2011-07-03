@@ -5,7 +5,7 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 
-namespace MyNppPlugin1
+namespace NppHashMaker
 {
     public partial class HashResultDlg : Form
     {

@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 using NppPluginNET;
 using NppPlugin.DllExport;
 
-namespace MyNppPlugin1
+namespace NppHashMaker
 {
     class UnmanagedExports
     {

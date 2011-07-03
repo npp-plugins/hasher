@@ -8,7 +8,7 @@ using System.Windows.Forms;
 using NppPluginNET;
 using System.Security.Cryptography;
 
-namespace MyNppPlugin1
+namespace NppHashMaker
 {
     class Main
     {
