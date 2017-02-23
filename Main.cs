@@ -17,10 +17,10 @@ namespace NppHashMaker
         static string iniFilePath = null;
         static bool someSetting = false;
         //static HashResultDlg frmMyDlg = null;
-        static int idMyDlg = -1;
+        //static int idMyDlg = -1;
         //static Bitmap tbBmp = Properties.Resources.star;
         //static Bitmap tbBmp_tbTab = Properties.Resources.star_bmp;
-        static Icon tbIcon = null;
+        //static Icon tbIcon = null;
         static int maxDisplayDataStringLen = 85;
         static HashResultDlg hashResultDlg = null;
         public enum HashMethod { 
@@ -58,7 +58,7 @@ namespace NppHashMaker
             PluginBase.SetCommand(3, "SHA384", sha384);
             PluginBase.SetCommand(4, "SHA512", sha512);
 
-            idMyDlg = 1;
+            //idMyDlg = 1;
         }
         internal static void SetToolBarIcon()
         {
